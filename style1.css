@@ -1,0 +1,45 @@
+h1 {
+  text-align: center;
+  color: #00ff00;
+  font-family: cursive;
+  font-size: 60px;
+  padding: 80px;
+  background-color: #d9edf7;
+}
+
+body {
+  font-size: 14px;
+  line-height: 1.42857143;
+  text-align: center;
+}
+
+p {
+  font-size: 35px;
+  padding: 150px;
+}
+
+div {
+  padding: 40px;
+}
+
+a:link {
+  text-decoration: underline;
+  border-bottom: 1px solid;
+  text-align: center;
+}
+
+#circle {
+  color: pink;
+  text-align: center;
+  padding: 400px;
+}
+
+#row {
+  margin-left: 5px;
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+  border: 2px solid black;
+  margin: auto;
+  color: #d9edf7;
+}
